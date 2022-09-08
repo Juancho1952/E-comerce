@@ -9,14 +9,24 @@
     <link rel="stylesheet" href="./CSS/styles.css">
 </head>
 <body>
-    <div class="container">
+    <div class="container" id="container">
         <h1>Tienda P&P</h1>
         <div class="contentProducts">
         </div>
     </div>
-    <div class="cart-Products" id="cartProducts">
+    <div class="cartProducts" id="cartProducts">
+        <div class="cartProducts-body">
+        </div>
+        <div class="cartProducts-total">
+            <h3 class="Total_Products"></h3>
+        </div>
     </div>
-    <i class='bx bxs-cart-add' id="CartSvg"></i>
+    <i class='bx bx-shopping-bag' id="CartSvg">
+        <span class="Counting" id="Counting"></span>
+    </i>
+    <footer class="footeer" id="footeer">
+        <h1>🙌Designed and developed by Juan Duran.👌</h1>
+    </footer>
     <script src="./JS/Main.js" type="module"></script>
 </body>
 </html>

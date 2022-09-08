@@ -112,49 +112,49 @@ export const DBStore = [
         Price: 1800
     },
     {
-        id: 15,
+        id: 17,
         name: "Masa para arepas",
         ImgProduct: "./Images/masaarepas-5200.jpeg",
         stock: 8,
         Price: 5200
     },
     {
-        id: 16,
+        id: 18,
         name: "Panela",
         ImgProduct: "./Images/panela-2500.jpeg",
         stock: 12,
         Price: 2500
     },
     {
-        id: 17,
+        id: 19,
         name: "Sal",
         ImgProduct: "./Images/Refisal-2200.jpeg",
         stock: 6,
         Price: 2200
     },
     {
-        id: 18,
+        id: 20,
         name: "Galletas Saltin",
         ImgProduct: "./Images/Saltin-1400.jpeg",
         stock: 14,
         Price: 1400
     },
     {
-        id: 19,
+        id: 21,
         name: "Chocolate Sol",
         ImgProduct: "./Images/sol-libra-7000.jpeg",
         stock: 17,
         Price: 7000
     },
     {
-        id: 20,
+        id: 22,
         name: "Crema para sopa",
         ImgProduct: "./Images/Sopera-2300.jpeg",
         stock: 6,
         Price: 2300
     },
     {
-        id: 21,
+        id: 23,
         name: "Vinagre de Manzana",
         ImgProduct: "./Images/Vinagre-2700.jpeg",
         stock: 7,
