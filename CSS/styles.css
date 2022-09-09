@@ -183,7 +183,7 @@ img{
         border-bottom-left-radius: 2rem;
         transition: transform 0.9s;
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
     }
     .container{
         padding-bottom: 3rem;
@@ -193,9 +193,9 @@ img{
         padding-bottom: 4rem;
     }
     .cartProducts-body{
-        padding: 3rem 2rem;
-        width: 100%;
-        height: 95%;
+        padding: 2rem 2rem;
+        width: 80%;
+        height: 80%;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
@@ -205,6 +205,10 @@ img{
         font-size: 1.6rem;
         flex-direction: column;
         gap: 3rem;
+    }
+    .cartProducts-total{
+        width: 20%;
+        height: 80%;
     }
     .item_cart{
         margin: auto;
